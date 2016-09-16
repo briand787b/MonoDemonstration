@@ -1,0 +1,6 @@
+c:\users\brian\documents\visual studio 2015\Projects\PokemonFourthAttempt\PokemonFourthAttempt\bin\Debug\PokemonFourthAttempt.exe.config
+c:\users\brian\documents\visual studio 2015\Projects\PokemonFourthAttempt\PokemonFourthAttempt\bin\Debug\PokemonFourthAttempt.exe
+c:\users\brian\documents\visual studio 2015\Projects\PokemonFourthAttempt\PokemonFourthAttempt\bin\Debug\PokemonFourthAttempt.pdb
+c:\users\brian\documents\visual studio 2015\Projects\PokemonFourthAttempt\PokemonFourthAttempt\obj\Debug\PokemonFourthAttempt.csprojResolveAssemblyReference.cache
+c:\users\brian\documents\visual studio 2015\Projects\PokemonFourthAttempt\PokemonFourthAttempt\obj\Debug\PokemonFourthAttempt.exe
+c:\users\brian\documents\visual studio 2015\Projects\PokemonFourthAttempt\PokemonFourthAttempt\obj\Debug\PokemonFourthAttempt.pdb
